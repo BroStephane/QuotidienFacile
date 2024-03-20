@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "QuotidienFacile",
+    "password": "QuotidienFacile1",
+    "database": "QuotidienFacile",
+    "host": "hs432613-001.eu.clouddb.ovh.net:35660",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "QuotidienFacile",
+    "password": "QuotidienFacile1",
+    "database": "QuotidienFacile",
+    "host": "hs432613-001.eu.clouddb.ovh.net:35660",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "QuotidienFacile",
+    "password": "QuotidienFacile1",
+    "database": "QuotidienFacile",
+    "host": "hs432613-001.eu.clouddb.ovh.net:35660",
+    "dialect": "mysql"
+  }
+}
